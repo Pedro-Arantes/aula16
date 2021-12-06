@@ -10,8 +10,8 @@
     <!--a = ANCHOR href = HiperRefence -->
     <a href="listarclientes.php">Clientes</a>
     <a href="listarprodutos.php">Produtos</a>
-    <a href="listarclientes.php">Clientes</a>
-    <a href="listarclientes.php">Clientes</a>
-    <a href="listarclientes.php">Clientes</a>
+    <a href="listarvendas.php">Vendas</a>
+    <a href="listarvendedores.php">Vendedores</a>
+    
 </body>
 </html>
